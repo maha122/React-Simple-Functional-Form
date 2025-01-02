@@ -2,13 +2,13 @@ The React Form Project demonstrates the development of a simple, interactive lan
 
 This project serves as a hands-on example of how to build reusable and interactive components using React, emphasizing key concepts like component-based architecture, state management, and event handling. Additionally, it integrates basic HTML and CSS for layout and styling, making the project visually appealing and functional.
 
-Tech Stack - 
-React: For building the user interface and managing state.
-JavaScript (JSX): For creating dynamic and interactive components.
-HTML & CSS: For structuring and styling the application
+**Tech Stack** - 
+React: For building the user interface and managing state.<br/>
+JavaScript (JSX): For creating dynamic and interactive components.<br/>
+HTML & CSS: For structuring and styling the application.<br/>
 
-Outcomes - 
-Understanding React's component-based architecture.
-Implementing modals and forms in a React application.
-Managing local state and updating the UI dynamically.
-Gaining experience with HTML, CSS, and React integration.
+**Outcomes** - 
+Understanding React's component-based architecture.<br/>
+Implementing modals and forms in a React application.<br/>
+Managing local state and updating the UI dynamically.<br/>
+Gaining experience with HTML, CSS, and React integration.<br/>
